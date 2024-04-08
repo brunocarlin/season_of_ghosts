@@ -7,5 +7,5 @@ share: true
 ---
 ```
 
-[[Welcome|Welcome]]
+[Welcome](./Welcome.md)
 
