@@ -7,3 +7,5 @@ share: true
 ---
 ```
 
+[[Welcome|Welcome]]
+
