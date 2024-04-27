@@ -12,8 +12,7 @@ Ratfolk, Shadow Rat, Gunsmith, Gunslinger
 
 ?
 
-
-
+To do
 ## Backstory
 
 ?
