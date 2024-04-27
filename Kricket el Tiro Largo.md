@@ -1,5 +1,6 @@
 ---
 share: "True"
+category: character
 ---
 
 ## Description
@@ -11,8 +12,7 @@ Ratfolk, Shadow Rat, Gunsmith, Gunslinger
 
 ?
 
-
-
+To do
 ## Backstory
 
 ?
