@@ -1,5 +1,6 @@
 ---
 share: "True"
+category: Characters
 ---
 
 ## Description
@@ -15,7 +16,7 @@ Poppet, Young, Sorcerer
 
 ?
 
-
+>?
 
 ## Backstory
 
