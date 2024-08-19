@@ -1,6 +1,6 @@
 ---
 share: "True"
-category: character
+category: Characters
 ---
 
 ## Description

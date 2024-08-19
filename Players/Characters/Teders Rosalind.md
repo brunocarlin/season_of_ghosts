@@ -25,4 +25,10 @@ Teders Rosalind is a small poppet. With a lack of any real defining features acr
 I was going for more of a situation where a small girl had owned teders when they was a normal poppet, but she somehow died while holding them. Giving them that red mark near their face and chest and letting that bloodstain act as their bloodline to sorcery.  If you've ever watched the movie "9" it'll be a similar thing where someone dies and their soul kind of sparks a object with life. Leaving the object to wander around for the most part.
 hadn't decided anything specific, so it could probably be some cabin in the woods type deal
 
+Lived with Caroline, was a puppet, casual dool
+
+Burned house down, wood trapped her, her blood has animated him
+
+
+
 
